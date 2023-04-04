@@ -1,16 +1,64 @@
-### Hi there 👋
+### Привет! 👋
+# :fire: All the emojis :tada:
+### ✨ Обо мне за 30 секунд ✨ 
+* 🎓 Образование:
+  - 
+  - 
+  - 
+* 
+*  
+* 
+* 
 
-<!--
-**askornyakov1977/askornyakov1977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 Проекты 📚
 
-Here are some ideas to get you started:
+* Кликни [сюда]() чтобы посмотреть мои проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Основные компетенции 💡
+- Инструменты: 
+- Skills: 
+    * 
+    * 
+    * 
+
+### ⚡️ В настоящее время ⚡️
+- 
+- 
+- 
+- 
+
+### 🙌🏻 Свяжись со мной
+- [Telegram]()
+- [Kaggle]()
+
+---
+
+### Hello! 👋
+
+### ✨ About me in 30 seconds ✨ 
+* 🎓 Education:
+ - 
+ - 
+ - 
+* 
+* 
+* 
+* 
+
+### 💡 Core competencies 💡
+- Tools: 
+  - Skills:
+    * 
+    * 
+    * 
+
+
+### ⚡️ Currently ⚡️
+- 
+- 
+- 
+- 
+
+### 🙌🏻 Contact me
+- [Telegram]()
+- [Kaggle]()
